@@ -1,0 +1,4 @@
+1,Pen,100,10
+2,Pencil,41,5
+3,Notebook,11,40
+4,School_bag,3,1000
